@@ -44,11 +44,7 @@ body {
 #chatspace {
     margin-top: 50px;
     height: 80vh;
-}
-
-#chatframe {
-    width: 99%;
-    height: 99%;
+    color : #FFF;
 }
 
 .fixed {
